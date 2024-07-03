@@ -2,6 +2,9 @@
 
 拔刀剑：重锋 —— 结合两代拔刀剑，为现代Minecraft准备的拔刀剑分支    
 SlashBlade: Resharped —— A SlashBlade mod fork for Modern Minecraft.  
+
+HowXu update:添加了原本似蛭的刀，幻魔炼金拵，和一把诸神黄昏的刀
+
 ![picture](https://s2.loli.net/2024/05/21/w2l63c48nbOMyYi.png)    
 ***
 
