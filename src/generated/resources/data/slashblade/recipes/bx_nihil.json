@@ -1,0 +1,38 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "slashblade:bx_nihil",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "slashblade:proudsoul_sphere"
+    },
+    "B": {
+      "item": "slashblade:proudsoul_ingot"
+    },
+    "E": {
+      "item": "minecraft:nether_star"
+    },
+    "F": {
+      "item": "minecraft:diamond_block"
+    },
+    "C": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "name": "slashblade:nihil",
+        "proud_soul": 1000,
+        "kill": 1000,
+        "refine": 1
+      }
+    }
+  },
+  "pattern": [
+    "AEA",
+    "BCB",
+    "AFA"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}

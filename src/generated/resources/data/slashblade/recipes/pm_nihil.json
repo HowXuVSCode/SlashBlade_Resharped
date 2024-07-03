@@ -1,0 +1,41 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "slashblade:pm_nihil",
+  "category": "equipment",
+  "key": {
+    "K": {
+      "item": "minecraft:diamond_block"
+    },
+    "A": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "name": "slashblade:cx_nihil",
+        "proud_soul": 6000,
+        "kill": 3500
+      }
+    },
+    "C": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "name": "slashblade:cc",
+        "proud_soul": 6000,
+        "kill": 3500
+      }
+    },
+    "B": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade"
+    }
+  },
+    "pattern": [
+      "KKK",
+      "ABC",
+      "KKK"
+    ],
+    "result": {
+      "item": "slashblade:slashblade"
+    },
+    "show_notification": true
+  }

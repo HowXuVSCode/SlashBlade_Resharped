@@ -1,0 +1,21 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:sharpness",
+      "lvl": 3
+    }
+  ],
+  "name": "slashblade:laemmle",
+  "properties": {
+    "attack_base": 7.0,
+    "slash_art": "slashblade:judgement_cut",
+    "max_damage": 1200,
+    "sword_type": [
+      "enchanted"
+    ]
+  },
+  "render": {
+    "model": "slashblade:model/named/howxu/laemmle.obj",
+    "texture": "slashblade:model/named/howxu/laemmle.png"
+  }
+}

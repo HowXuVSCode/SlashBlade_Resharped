@@ -1,0 +1,37 @@
+{
+  "enchantments": [
+    {
+      "id": "minecraft:smite",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:unbreaking",
+      "lvl": 3
+    },
+    {
+      "id": "minecraft:fire_aspect",
+      "lvl": 2
+    },
+    {
+      "id": "minecraft:sharpness",
+      "lvl": 5
+    },
+    {
+      "id": "minecraft:bane_of_arthropods",
+      "lvl": 5
+    }
+  ],
+  "name": "slashblade:pm_nihil",
+  "properties": {
+    "attack_base": 13.0,
+    "slash_art": "slashblade:wave_edge",
+    "max_damage": 1200,
+    "sword_type": [
+      "bewitched"
+    ]
+  },
+  "render": {
+    "model": "slashblade:model/named/howxu/pm_nihil.obj",
+    "texture": "slashblade:model/named/howxu/pm_nihil.png"
+  }
+}

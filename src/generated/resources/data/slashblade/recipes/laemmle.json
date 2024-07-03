@@ -1,0 +1,38 @@
+{
+  "type": "slashblade:shaped_blade",
+  "blade": "slashblade:laemmle",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "type": "forge:nbt",
+      "item": "minecraft:potion",
+      "count": 1,
+      "nbt": "{Potion:\"minecraft:strength\"}"
+    },
+    "B": {
+      "item": "minecraft:gold_ingot"
+    },
+    "C": {
+      "item": "minecraft:obsidian"
+    },
+    "F": {
+      "item": "minecraft:quartz_block"
+    },
+    "E": {
+      "type": "slashblade:blade",
+      "item": "slashblade:slashblade",
+      "request": {
+        "name": "slashblade:muramasa"
+      }
+    }
+  },
+  "pattern": [
+    "ABC",
+    "BEB",
+    "FBA"
+  ],
+  "result": {
+    "item": "slashblade:slashblade"
+  },
+  "show_notification": true
+}
